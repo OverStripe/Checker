@@ -1,0 +1,1137 @@
+[33mda388e1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m Initial commit with code from EQUROBOT
+[33mfb3b99e[m Removed sensitive information
+[33m60bc650[m Updated README.md for OverStripe/Stripe
+[33me4a2df7[m Update skbasse.py
+[33mad9ba43[m Update xxvv.py
+[33m5d532f9[m Update and rename massskbase.py to xxvv.py
+[33ma057cf9[m Update skbasse.py
+[33m0b42b9b[m Update env.py
+[33mb4b7da9[m Update and rename chk.py to env.py
+[33m02388fe[m Update chk.py
+[33mb0ebf68[m Create chk.py
+[33m9db415a[m Update equai.py
+[33ma1e63ce[m Update requirements.txt
+[33mdbc9d08[m Update equai.py
+[33m790bec4[m Create massauth.py
+[33mfe34748[m Update stripeauth.py
+[33m06f6211[m Update vbv.py
+[33m93e48df[m Update proxies.py
+[33mc6dae9e[m Update vbv.py
+[33m23f4574[m Create proxies.py
+[33m7ceb6b2[m Update ipgen.py
+[33m74e2180[m Update vbv.py
+[33m801bf5d[m Update massskbase.py
+[33mea242a6[m Update __init__.py
+[33mc1f8b33[m Update kill.py
+[33m5d4b967[m Create kill.py
+[33mb56c482[m Update vbv.py
+[33m6d1f0e0[m Update config.py
+[33m7b12d3d[m Rename draw.py to draw.
+[33m63a08f6[m Rename ai.py to ai
+[33mff901b9[m Update premium.py
+[33mb696328[m Rename skbasetxt.py to skbasetxt
+[33mdc9271e[m Delete EQUROBOT/modules/AI/hack.py
+[33m9f161c0[m Create hack.py
+[33m1758aff[m Update skbasetxt.py
+[33mc2943f5[m Update skbasse.py
+[33m70b25e7[m Update sitetcharge.py
+[33mf4c4354[m Update skbasetxt.py
+[33ma5da448[m Update skbasetxt.py
+[33ma89ad4d[m Update skbasetxt.py
+[33m04c1e03[m Update skbasetxt.py
+[33m24162bc[m Update skbasetxt.py
+[33ma1c3cc8[m Update skbasetxt.py
+[33m99ec20b[m Update skbasetxt.py
+[33ma2d84a9[m Update skbasse.py
+[33md80bbb7[m Update massskbase.py
+[33mc62cff0[m Update massskbase.py
+[33m770b712[m Update msvv.py
+[33mc05c2b7[m Update sitetcharge.py
+[33m024ffb2[m Update vbv.py
+[33mf321db9[m Update __init__.py
+[33m7861b1e[m Update skbasetxt.py
+[33me380ace[m Update skbasetxt.py
+[33mc15059d[m Update skbasetxt.py
+[33mf480687[m Update skbasetxt.py
+[33m4c3d6d2[m Update sk.py
+[33m57ca3af[m Update mustjoin.py
+[33m6e445cc[m Update start.py
+[33mac1e679[m Update start.py
+[33mb023244[m Update start.py
+[33mcce2443[m Update start.py
+[33mb9b2437[m Update start.py
+[33m411ed29[m Delete EQUROBOT/modules/TOOLS/buy.py
+[33m06b059b[m Update buy.py
+[33md8e3aeb[m Create buy.py
+[33mb62926a[m Rename EQUROBOT/modules/stats.py to EQUROBOT/modules/TOOLS/stats.py
+[33m9e18a6f[m Rename EQUROBOT/modules/premium.py to EQUROBOT/modules/TOOLS/premium.py
+[33mf8ac47e[m Rename EQUROBOT/modules/ping.py to EQUROBOT/modules/TOOLS/ping.py
+[33m90473e9[m Rename EQUROBOT/modules/mustjoin.py to EQUROBOT/modules/TOOLS/mustjoin.py
+[33medb5f16[m Rename EQUROBOT/modules/dev.py to EQUROBOT/modules/TOOLS/dev.py
+[33mff0b324[m Rename start.py to start.py
+[33m8328fdd[m Rename EQUROBOT/modules/AI.start.py to EQUROBOT/modules/AI/start.py
+[33md4bc067[m Rename EQUROBOT/Bot.start.py to EQUROBOT/modules/AI.start.py
+[33mbb10ace[m Rename EQUROBOT/modules/start.py to EQUROBOT/Bot.start.py
+[33m5189f9d[m Update __main__.py
+[33m50bc3a6[m Update __init__.py
+[33m0ca204b[m Update __init__.py
+[33mb7f3aa1[m Update __main__.py
+[33me157938[m Update __init__.py
+[33m4d7d59f[m Update __main__.py
+[33mda8dfd2[m Update __main__.py
+[33m5b406a7[m Update __init__.py
+[33m43b2d74[m Update __init__.py
+[33mdba734b[m Delete EQUROBOT/modules/buy.py
+[33m95610ab[m Create buy.py
+[33m8555551[m jh
+[33m4a90b68[m Update __main__.py
+[33m3c89886[m Update __init__.py
+[33mb90e784[m Update __init__.py
+[33m1579fe2[m 🖕
+[33m96758dd[m Update extra.py
+[33m5dffa70[m Update extra.py
+[33me5d2a93[m Update extra.py
+[33m47d8a3f[m Update extra.py
+[33m07ece99[m Update extra.py
+[33m4ffe825[m Update extra.py
+[33m1b652ba[m Update extra.py
+[33m22299c6[m Update extra.py
+[33m44c6c7c[m Update extra.py
+[33mabb7504[m Update extra.py
+[33mdefa573[m Update extra.py
+[33mf01d6c6[m Update __init__.py
+[33mffb3255[m Update extra.py
+[33md3a206a[m Update ccgen.py
+[33mac256e7[m Update start.py
+[33m5342aee[m Update start.py
+[33m1f30d6f[m Add files via upload
+[33m377241f[m Delete EQUROBOT/modules/start.py
+[33m05ce1a2[m Update msk.py
+[33m5bf0f83[m Update broadcast.py
+[33mb0c44f6[m Update mongo.py
+[33m2477642[m Create broadcast.py
+[33m08babe0[m Create proxy.py
+[33m1994dd4[m Rename proxy.py to proxytxt.py
+[33md84e402[m Update proxy.py
+[33m1ab3514[m Update clean_txt.py
+[33me0f863a[m Update vbv.py
+[33md7e2613[m Create Instagram.py
+[33m96215b0[m Update ccgen.py
+[33mbb4bb84[m Update gate.py
+[33m4a9de93[m Update requirements.txt
+[33m4197bf3[m Update requirements.txt
+[33maba1ed8[m Update proxy.py
+[33m50360ea[m Update proxyscr.py
+[33m30bfa8b[m Update proxyscr.py
+[33ma48ab18[m Update proxyscr.py
+[33m8e1eb78[m Update proxyscr.py
+[33m5aca0f2[m Create proxyscr.py
+[33mff6154f[m Create proxy.py
+[33m4d1ad5d[m Delete EQUROBOT/modules/proxy
+[33m060e36e[m Rename proxy.py to proxy
+[33me4a8d90[m Update massskbase.py
+[33m9d1f362[m Create massskbase.py
+[33md04d5ed[m Delete EQUROBOT/modules/xxvv.py
+[33m5504433[m Update skbasetxt.py
+[33mec6af41[m Update xxvv.py
+[33m01617ac[m Update skbasse.py
+[33m5255cdf[m Update skbasse.py
+[33m813a75e[m Update and rename massskbase.py to xxvv.py
+[33m39f66f4[m Update massskbase.py
+[33mf841e51[m Update massskbase.py
+[33m2def109[m Update massskbase.py
+[33mc54da6f[m Update bin.py
+[33m712d41b[m Update gate.py
+[33m3a17634[m k
+[33m104eb62[m Update skbasse.py
+[33md5e0187[m Update stripeauth.py
+[33m4ba8995[m Update skbasse.py
+[33mf96c8cc[m Update sitetcharge.py
+[33m604b956[m Update msvv.py
+[33m9095c3e[m Update massskbase.py
+[33m5697af6[m Update stripeauth.py
+[33m78292aa[m Update massskbase.py
+[33m8952acc[m Update skbasse.py
+[33mbd5a945[m Update massskbase.py
+[33me5434ac[m Update mongo.py
+[33m4c8ac09[m Update skbasetxt.py
+[33m0ade3f2[m Update premium.py
+[33md257d05[m Update premium.py
+[33m760237f[m Update mongo.py
+[33m8117bc3[m Update stripeauth.py
+[33m578cc53[m Update config.py
+[33m15b7c59[m Update skbasetxt.py
+[33m9b8bbbc[m Update skbasse.py
+[33m5f06723[m Update mongo.py
+[33md478ce7[m Update massskbase.py
+[33m017f9bd[m Update sk_set.py
+[33m5172ace[m Update mongo.py
+[33m2f32484[m Update premium.py
+[33maa39b52[m 🖕
+[33m6cbbd83[m m
+[33m1dd1ddf[m Update config.py
+[33me48ac5d[m Update skbasetxt.py
+[33m5920c2a[m Update skbasetxt.py
+[33ma32f765[m h
+[33mcd7697a[m Update config.py
+[33m7a908d7[m Create premium.py
+[33m839be8c[m Delete EQUROBOT/modules/premium.py
+[33medb0f38[m Create mongo.py
+[33md81fb5d[m Delete EQUROBOT/modules/co.py
+[33ma9cfbe3[m Create co.py
+[33md365995[m Update skbasse.py
+[33me223ea8[m Update massskbase.py
+[33mddea2bb[m Update massskbase.py
+[33mee05179[m Update requirements.txt
+[33m28033c2[m Update massskbase.py
+[33m81cb79e[m Update requirements.txt
+[33ma06652a[m Update requirements.txt
+[33m3f38ac4[m Create sk_set.py
+[33mbe05797[m Update massskbase.py
+[33m6e77061[m Update skbasse.py
+[33mfecffe9[m Update skbasse.py
+[33m3f8bcb6[m Update msvv.py
+[33m954fb3b[m Update massskbase.py
+[33m84da43f[m Update skbasetxt.py
+[33m4e18155[m Update massskbase.py
+[33m2465300[m Update skbasse.py
+[33m0e447a2[m Update massskbase.py
+[33mf44abc5[m Create msvv.py
+[33maf76115[m Update stripeauth.py
+[33ma68c285[m Update config.py
+[33m4f703e2[m Update stripeauth.py
+[33m8c6dfed[m Update stripeauth.py
+[33m8b9d3ed[m Update stripeauth.py
+[33mb8e150e[m Update stripeauth.py
+[33m7525d6a[m Update stripeauth.py
+[33m10f6725[m Update stripeauth.py
+[33m3802cd7[m Create premium.py
+[33m7ad0942[m Update skbasetxt.py
+[33m0080697[m Add files via upload
+[33m3573717[m Update clean_txt.py
+[33m5e9f37b[m Delete EQUROBOT/modules/cc_clean.py
+[33mc7e934b[m Update and rename txt.py to clean_txt.py
+[33m1234d95[m Update massskbase.py
+[33mf75a5f2[m Update skbasse.py
+[33mf4652ae[m Add files via upload
+[33m581fc64[m Update sitetcharge.py
+[33m3d16a6e[m Add files via upload
+[33mcb9d149[m Delete EQUROBOT/modules/sotecharge.py
+[33m6f6704c[m Update config.py
+[33m9eeb214[m Update vbv.py
+[33mf9b6f86[m Update requirements.txt
+[33mf0c06e2[m Update requirements.txt
+[33mdd52489[m Update requirements.txt
+[33m85633cc[m Update stripeauth.py
+[33mbeda2c9[m Update vbv.py
+[33m082d07b[m Update sotecharge.py
+[33mbbdc131[m Update skbasse.py
+[33m907303f[m Update massskbase.py
+[33md69d004[m Add files via upload
+[33m9765508[m Update bin.py
+[33me873b66[m Update stats.py
+[33m5664dc6[m Delete EQUROBOT/modules/pay.py
+[33mefdb981[m Delete EQUROBOT/modules/ig.py
+[33m74547fb[m Rename ai to ai.py
+[33mc45db86[m Update gate.py
+[33md02862b[m Update gate.py
+[33m1bc143c[m Update gate.py
+[33mb1c760a[m Update gate.py
+[33mc7b0df8[m Update gate.py
+[33m9301036[m Update __init__.py
+[33m6bbdbe4[m Update __init__.py
+[33ma57a2c8[m Update config.py
+[33md23d630[m Update ccgen.py
+[33me9ec328[m Update bin.py
+[33m6c13e42[m Update ccgen.py
+[33mcc483a6[m Update ccgen.py
+[33ma2f9bbf[m Update bin.py
+[33m18956e9[m Update ccgen.py
+[33m618b92a[m Rename HQdump.py to hqdump.py
+[33m06933a4[m Delete EQUROBOT/modules/anime.py
+[33m0bdf003[m Delete EQUROBOT/modules/st.py
+[33m54db09c[m Update download.py
+[33m6b5447d[m Delete EQUROBOT/modules/ccn.py
+[33m745195b[m Update pay.py
+[33m8c0655e[m Update pay.py
+[33m59d0423[m Update pay.py
+[33m5652bc7[m Update pay.py
+[33m5541236[m Delete EQUROBOT/modules/chk.py
+[33m7ef260c[m Update chk.py
+[33md301265[m Create chk.py
+[33m3d1321a[m Update cc_clean.py
+[33mdfb19f5[m Update cc_clean.py
+[33m728b9ad[m Update cc_clean.py
+[33m463411c[m Update stats.py
+[33m87870f0[m Update ccgen.py
+[33m7c3ada2[m Update ccgen.py
+[33mc27954b[m Update ccgen.py
+[33ma4c5b31[m Update ccgen.py
+[33m07796ba[m Delete EQUROBOT/modules/HEROKU.py
+[33mefe1995[m Update HEROKU.py
+[33me7257f7[m Update HEROKU.py
+[33mc944899[m Create HEROKU.py
+[33m833bf97[m Update __main__.py
+[33mec99a26[m Delete EQUROBOT/clone directory
+[33md6b570c[m Delete EQUROBOT/modules/clone.py
+[33m793979e[m Update download.py
+[33ma32af31[m Update requirements.txt
+[33m5b396c1[m Update download.py
+[33m851626c[m Delete c directory
+[33mc6b7af6[m Rename cookies (1).txt to cookies.txt
+[33m4751aa3[m Delete c/cookies.txt
+[33m43bbb65[m Add files via upload
+[33m7370a12[m Update download.py
+[33mfe45bf7[m Delete cookies.txt
+[33m78bc061[m Create cookies.txt
+[33m3e10626[m Update cookies.txt
+[33mcae111a[m Create cookies.txt
+[33ma1c88be[m Update download.py
+[33ma2aee1d[m Delete chk.py
+[33m6670738[m Update config.py
+[33m12dff31[m Rename ai.py to ai
+[33m24bed3c[m Update config.py
+[33m458ee2a[m Update __init__.py
+[33mbe2988c[m Update equai.py
+[33m7cbaec7[m Update __init__.py
+[33m3144a11[m Update __init__.py
+[33mf275d2c[m Update __init__.py
+[33mcd635ff[m Update config.py
+[33md033e07[m Update __init__.py
+[33md962415[m Update __init__.py
+[33m61d131e[m Update __init__.py
+[33mf5ace44[m Update __init__.py
+[33mf41665a[m Update equai.py
+[33mcf741c6[m Update start.py
+[33m3d3963b[m Update Procfile
+[33mcfb7916[m Update split.py
+[33m8941acc[m Update split.py
+[33m3ff936c[m Update split.py
+[33mc02289a[m Update split.py
+[33mb3de885[m Create split.py
+[33m91d19ce[m Update __init__.py
+[33mf5f8874[m Update config.py
+[33mbb17e97[m Update requirements.txt
+[33m68a9b85[m Update extra.py
+[33m02ed594[m Create chk.py
+[33m222b8bd[m Rename draw to draw.py
+[33maaa776c[m Update start.py
+[33mb3173d1[m Update start.py
+[33mf7ef1b1[m Update start.py
+[33m16fb3f7[m Update start.py
+[33m69adb02[m Create ccn.py
+[33me203d19[m Delete EQUROBOT/modules/chk.py
+[33m23399b5[m Update chk.py
+[33md6c7af6[m Update start.py
+[33m029cfec[m Update chk.py
+[33m59607ca[m Update start.py
+[33m246eb7b[m Update chk.py
+[33m3353870[m Update start.py
+[33m8d95301[m Update chk.py
+[33m15a36fe[m Update start.py
+[33m7c8def0[m Update start.py
+[33m9712647[m Update chk.py
+[33mda05b8f[m Update start.py
+[33m62113d0[m Update chk.py
+[33m85aae5c[m Update chk.py
+[33mf1396e5[m Update chk.py
+[33m9cab38c[m Update chk.py
+[33m3cb4beb[m Update chk.py
+[33m8794b15[m Create chk.py
+[33m61706d4[m Update ig.py
+[33m852e85a[m Update equai.py
+[33ma501aef[m Delete EQUROBOT/modules/hitter
+[33mcf8eaec[m Update equai.py
+[33ma52cf14[m Create mustjoin.py
+[33mcf17cce[m Update equai.py
+[33me95ade9[m Update git.py
+[33m447d8d2[m Update start.py
+[33m5ffd960[m Update start.py
+[33m3455978[m Update start.py
+[33me0ba3b5[m Update clone.py
+[33m4171aa5[m Update start.py
+[33mcf903b5[m Update start.py
+[33m8b8d412[m Update start.py
+[33m784880a[m Update __main__.py
+[33m21c4788[m Update start.py
+[33m43aba98[m Update ss.py
+[33m3c3d2f8[m Update sk.py
+[33mf67a6f3[m Update gate.py
+[33m963e2ea[m Update fake.py
+[33m4c20b86[m Update download.py
+[33ma396cfb[m Update ai.py
+[33m9dd7e8c[m Update requirements.txt
+[33mda7dc38[m hi
+[33m2d49c45[m Update clone.py
+[33m90fed95[m Hi
+[33mf7ba6cb[m Revert "hi"
+[33m71db315[m Revert "Delete EQUROBOT/Clone/Mm"
+[33mc8b5448[m Delete EQUROBOT/Clone/Mm
+[33m3e43819[m hi
+[33mf2f3b88[m Update clone.py
+[33mf6aca9a[m Create equai.py
+[33me6f4c73[m Delete EQUROBOT/Clone/equai.py
+[33m6706893[m Create equai.py
+[33m845ff3d[m Add files via upload
+[33mbbf5653[m Create Mm
+[33mf735e44[m Delete CloneBoT directory
+[33m816fc4f[m Update clone.py
+[33m54e76b2[m Delete EQUROBOT/modules/clonedb
+[33m8ba3a18[m Create clone.py
+[33m12ed7e9[m Update git.py
+[33mb3499ac[m Update __init__.py
+[33m0b935fa[m Update __main__.py
+[33m2ca651c[m Update __init__.py
+[33m18e88e6[m Rename clonedb.py to clonedb
+[33m7ecce9f[m Update __init__.py
+[33md529317[m Update __main__.py
+[33mc43fa53[m Update __main__.py
+[33m4aae353[m Update __main__.py
+[33m19e7627[m Update config.py
+[33m75c169f[m Update and rename clonedb to clonedb.py
+[33m5c4f947[m Update __main__.py
+[33mbdb1ed5[m Update __main__.py
+[33m3b70965[m Rename clonedb.py to clonedb
+[33m7b5937f[m Update clonedb.py
+[33m90b1bf0[m Update clonedb.py
+[33m4da7e1a[m Update clonedb.py
+[33m215f5d4[m Update config.py
+[33m9472c7a[m Update __main__.py
+[33mc5b89d3[m Update __init__.py
+[33m8ae63ef[m Update __main__.py
+[33md739572[m Update __init__.py
+[33m9bf19ef[m Update __init__.py
+[33ma13bba0[m Update __main__.py
+[33med00b21[m Update __init__.py
+[33m058891b[m Update __init__.py
+[33m4b6bae2[m Update __init__.py
+[33m8f24f54[m Update start.py
+[33m65c84f6[m Update proxy.py
+[33m9768f78[m Update ping.py
+[33mbc90940[m Update pay.py
+[33md4aa2a1[m Update ip.py
+[33m07cfe73[m Update anime.py
+[33m7fb4c69[m Update bin.py
+[33m2a3d7e0[m Update bin.py
+[33m93ac8ce[m Update cc_clean.py
+[33m73286c4[m Update ccgen.py
+[33m668dc31[m Update domain.py
+[33mae5bf41[m Update dork.py
+[33m7cc4c57[m Update dump.py
+[33m0bc68cf[m Update getdraw.py
+[33m77bdfbe[m Update git.py
+[33m15f0d5a[m Delete CloneBoT/Clones/ig.py
+[33m6072e74[m Update ip.py
+[33madb0acc[m Update ipgen.py
+[33ma349888[m Update pay.py
+[33mfc42fe6[m Update ping.py
+[33m0391405[m Update proxy.py
+[33m6c6c82c[m Delete CloneBoT/Clones/scr.py
+[33mcbde743[m Delete CloneBoT/Clones/sk.py
+[33md94aa7f[m Delete CloneBoT/Clones/sk2.py
+[33m0e83fab[m Delete CloneBoT/Clones/skscr.py
+[33m120d49a[m Delete CloneBoT/Clones/ss.py
+[33m6b861da[m Delete CloneBoT/Clones/st.py
+[33m6dbcd4b[m Update start.py
+[33m0a6c545[m Delete CloneBoT/Clones/stats.py
+[33mf48ba57[m Delete CloneBoT/Clones/txt.py
+[33maa45cc8[m Delete CloneBoT/Clones/upscale.py
+[33mf90a06e[m Update gate.py
+[33m004a621[m Update gate.py
+[33ma78b79f[m Update fake.py
+[33m5dedaea[m Delete CloneBoT/Clones/extra.py
+[33mdba8326[m Update dump.py
+[33m0e9f2fa[m Update download.py
+[33m563c914[m Update dork.py
+[33m378f3e6[m Update domain.py
+[33m1e1b4c5[m Update ccgen.py
+[33m861458c[m Update cc_clean.py
+[33m917c9f4[m Delete CloneBoT/Clones/bugs.py
+[33me71fc31[m Update bugs.py
+[33m5f9bee2[m Delete CloneBoT/Clones/botschk.py
+[33m6c92ec3[m Update bin.py
+[33m5b634bf[m Update anime.py
+[33m8a3f8a9[m Update HQdump.py
+[33me8f84ad[m Update ai.py
+[33mdee2ea3[m Update ai.py
+[33m0c90bf0[m Update HQdump.py
+[33mdd68ddb[m Update __init__.py
+[33m2115b92[m Delete CloneBoT/Clones/dev.py
+[33m75000fa[m Update clonedb.py
+[33m17895a2[m Add files via upload
+[33m64d2881[m Create ok
+[33m22df978[m clonedb test
+[33m3d00cfe[m Update config.py
+[33me6d8fa2[m Delete EQUROBOT/modules/gitwizard.p
+[33m2d8fea6[m Delete EQUROBOT/modules/fake_passport.py
+[33mf96dbba[m Update fake_passport.py
+[33mafba158[m Create fake_passport.py
+[33md4bf3c3[m Update requirements.txt
+[33m1f6e75d[m Update git.py
+[33mbbdcd4f[m Update git.py
+[33mb3d6f72[m Update git.py
+[33mc7a9cc2[m Update git.py
+[33ma079b67[m Update git.py
+[33m95e21be[m Update git.py
+[33mbeb56f9[m Update git.py
+[33mec61f4c[m Update git.py
+[33m7f0dac9[m Create git.py
+[33mdfe6e9e[m Rename gitwizard.py to gitwizard.p
+[33mafe82f4[m Delete EQUROBOT/modules/cc_cvv.py
+[33mf969ea8[m Delete EQUROBOT/modules/cc_chk.py
+[33m3d9f1c7[m Update fake.py
+[33mbe3e38d[m Update proxy.py
+[33m846180c[m Update proxy.py
+[33m96bc9f1[m Update proxy.py
+[33mb3f6f62[m Update proxy.py
+[33m226014e[m Create proxy.py
+[33m5ce5f7e[m Update cc_chk.py
+[33m9f15e0c[m Update cc_cvv.py
+[33m475a5e2[m Update download.py
+[33m3490932[m Delete EQUROBOT/modules/cvv.py
+[33m322de28[m Update and rename chk.py to cc_cvv.py
+[33mbb33d66[m Update and rename cc.py to cc_chk.py
+[33mda72b01[m Update chk.py
+[33m0857ce5[m Update dev.py
+[33m106c993[m Update dev.py
+[33m978b02b[m Update cvv.py
+[33m622083d[m Update cvv.py
+[33mc202b45[m Update cvv.py
+[33md826c6e[m Update cvv.py
+[33mf135fe1[m Update cvv.py
+[33meda9a2f[m Update cvv.py
+[33m78c27ed[m Update cvv.py
+[33mee6b0ca[m Update cvv.py
+[33m1810787[m Update cvv.py
+[33m86cf9e5[m Update cvv.py
+[33mb93587f[m Update cvv.py
+[33me106fea[m Update cvv.py
+[33m77b9439[m Create cvv.py
+[33m04bdfa2[m Update st.py
+[33m41f4cae[m Update st.py
+[33m4d946a6[m Update st.py
+[33m4b84663[m Update st.py
+[33m0b3a1a2[m Create st.py
+[33mba40543[m Delete EQUROBOT/modules/b3.py
+[33md9b3f5b[m Update b3.py
+[33me5698af[m Create b3.py
+[33m2a5c4d3[m Add files via upload
+[33m32943b0[m Delete EQUROBOT/bugs.py
+[33m49a3cb6[m Create bugs.py
+[33m2d03f52[m Delete EQUROBOT/modules/freegpt.py
+[33m948467b[m Update freegpt.py
+[33m36f21bf[m Create freegpt.py
+[33m953288a[m Delete EQUROBOT/modules/tetabox.py
+[33m40067c6[m Update tetabox.py
+[33m11a3686[m Create tetabox.py
+[33md2538a6[m Update cc.py
+[33mc14068c[m Update cc.py
+[33m618d076[m Update cc.py
+[33m422e827[m Update cc.py
+[33m03376c1[m Update cc.py
+[33md7736f0[m Update __init__.py
+[33m43dc35d[m Create cc.py
+[33m8dc7b07[m Update chk.py
+[33m83f8c82[m Update and rename chk to chk.py
+[33m66853ab[m Rename chk.py to chk
+[33mc433ada[m Update and rename chk to chk.py
+[33ma3ab86b[m Update extra.py
+[33md981af3[m Update ping.py
+[33m0e4391b[m Update and rename alive.py to ping.py
+[33m182274b[m Update alive.py
+[33m8058e6a[m Update alive.py
+[33ma7f9f89[m Update alive.py
+[33me5a74b6[m Update and rename ping.py to stats.py
+[33m6f9ab25[m Update ping.py
+[33m5c96b4d[m Update ping.py
+[33m76df975[m Update ping.py
+[33ma83f408[m Update ping.py
+[33m88cda9b[m Delete EQUROBOT/modules/vbv.py
+[33mbbfeb92[m Update vbv.py
+[33m0c09667[m Update vbv.py
+[33m4a5357f[m Delete EQUROBOT/modules/livegram.py
+[33m45e7827[m Update vbv.py
+[33m0ec7ef5[m Update livegram.py
+[33m1623ae4[m Update livegram.py
+[33m2b30000[m Update __init__.py
+[33mde33bd3[m Create livegram.py
+[33maa18b52[m Delete EQUROBOT/modules/msk.py
+[33md770a1f[m Create msk.py
+[33me096dec[m Update and rename msk.py to sk2.py
+[33mb41c2c6[m Create msk.py
+[33m544772c[m Update vbv.py
+[33m3468431[m Update vbv.py
+[33m0654e4c[m Update vbv.py
+[33m4dda2d2[m Update vbv.py
+[33md615532[m Update vbv.py
+[33m047f0af[m Update vbv.py
+[33mff83c97[m Create vbv.py
+[33m731827f[m Update scr.py
+[33m7547f19[m Update scr.py
+[33m1dad82f[m Update scr.py
+[33m0615b4d[m Update scr.py
+[33m67266bc[m Update scr.py
+[33m633ccc3[m Update scr.py
+[33mf6804c2[m Update scr.py
+[33maacc842[m Update scr.py
+[33m2939db0[m Update scr.py
+[33m4d66cf8[m Update scr.py
+[33m6e64ee5[m Update scr.py
+[33m3dfd924[m Update requirements.txt
+[33m26dea32[m Update requirements.txt
+[33meccd4fc[m Update and rename id.py to extra.py
+[33m9091c9e[m Update id.py
+[33md5fea49[m Delete EQUROBOT/modules/misc.py
+[33m70ed3e5[m Update misc.py
+[33m110a2da[m Update misc.py
+[33m69df5f3[m Update misc.py
+[33m0349304[m Update misc.py
+[33m30bf680[m Update requirements.txt
+[33m6b7af82[m Update requirements.txt
+[33m0e4ad33[m Update requirements.txt
+[33m6f8da85[m Update requirements.txt
+[33md61c39c[m Update misc.py
+[33mb5fbe59[m Update ping.py
+[33mf5052d3[m Add files via upload
+[33mf5b245d[m Update dork.py
+[33m37ec072[m Update dork.py
+[33mbf97fb6[m Update dork.py
+[33m744095b[m Update dork.py
+[33m4240530[m Update dork.py
+[33m610d720[m Update dork.py
+[33maca3a83[m Update dork.py
+[33m32f5332[m Update requirements.txt
+[33mf05fbe8[m Update dork.py
+[33m0f6f037[m Update dork.py
+[33me012aa6[m Update dork.py
+[33m4ec7f71[m Update dork.py
+[33me33b265[m Update dork.py
+[33mef9cd14[m Rename dork to dork.py
+[33m0be08c5[m Create dork
+[33m4b993c4[m Update ipgen.py
+[33m8d8b1dc[m Update fake.py
+[33m887edc0[m Update fake.py
+[33m68bce39[m Update ai.py
+[33m30df7a3[m Delete EQUROBOT/modules/cvv.py
+[33m97ce8bb[m Rename chk.py to chk
+[33m806f09c[m Update cvv.py
+[33m7aed0fb[m Update cvv.py
+[33m935fea7[m Update cvv.py
+[33m9db08d6[m Update cvv.py
+[33m0a251bd[m Update cvv.py
+[33me710b90[m Create cvv.py
+[33m4e64e59[m Delete EQUROBOT/modules/mchk.py
+[33m5f71177[m Update bin.py
+[33me75ac8b[m Update bin.py
+[33m1bbd115[m Update bin.py
+[33mbaa9d93[m Update bin.py
+[33m8cceacf[m Update bin.py
+[33m13d1a1e[m Update txt.py
+[33maae6600[m Update config.py
+[33me09348e[m Update __init__.py
+[33m5b71b94[m Update config.py
+[33m6dc2c5f[m Update config.py
+[33m8e968a2[m Update dump.py
+[33m877c068[m Update HQdump.py
+[33m0e96734[m Delete EQUROBOT/modules/savy.py
+[33m44aad04[m Update chk.py
+[33m8cf6678[m Update mchk.py
+[33mc6b208e[m Update savy.py
+[33m36a3201[m Create ccgen.py
+[33mf2c8d31[m Update botschk.py
+[33m4601d19[m Update savy.py
+[33m575c6e5[m Update mchk.py
+[33m581f002[m Update chk.py
+[33md179fe5[m Update download.py
+[33m41afcde[m Delete EQUROBOT/modules/ips.py
+[33m9e03665[m Create ips.py
+[33me464cd6[m Update ipgen.py
+[33mcf3dd76[m Update ipgen.py
+[33me559a3b[m Update requirements.txt
+[33m357b55b[m Update botschk.py
+[33m152cec9[m Update __init__.py
+[33m764256e[m Update botschk.py
+[33mb3af3fc[m Update botschk.py
+[33m8eb259a[m Update botschk.py
+[33mb93ba6e[m Update botschk.py
+[33m7d1d47b[m Update __init__.py
+[33m741d0d8[m Update botschk.py
+[33mc453ed3[m Update botschk.py
+[33m1e2015d[m Update botschk.py
+[33me3bfbe4[m Update botschk.py
+[33m0ce9ddf[m Rename draw.py to draw
+[33mabb0c47[m Update botschk.py
+[33mdd6a17d[m Update __init__.py
+[33m42fe9a6[m Update botschk.py
+[33m0c1ea76[m Update __init__.py
+[33m0d098bf[m Update botschk.py
+[33mc218ba5[m Create botschk.py
+[33m38182f1[m Update savy.py
+[33mb02aee5[m Update pay.py
+[33m6fbe269[m Delete EQUROBOT/modules/checkout.py
+[33m943ee3f[m Update chk.py
+[33mce3ce92[m Update mchk.py
+[33m67567d9[m Update mchk.py
+[33m284c8f8[m Update chk.py
+[33mce6cb79[m Update mchk.py
+[33mcab87f1[m Update chk.py
+[33m1964490[m Update config.py
+[33m1f98c02[m Update chk.py
+[33m798b26b[m Update mchk.py
+[33m287942a[m Delete EQUROBOT/modules/cvv.py
+[33md33513f[m Delete EQUROBOT/modules/mcvv.py
+[33m0113f44[m Create checkout.py
+[33m03b3920[m Update config.py
+[33m37a19f7[m Delete EQUROBOT/modules/freeai
+[33mfaf1a7b[m Update ipgen.py
+[33mbf97f16[m Create ipgen.py
+[33m5459449[m Update cc_clean.py
+[33m2a3be36[m Update cc_clean.py
+[33m6ecb9f8[m Delete EQUROBOT/modules/cc-chk.py
+[33m2189c02[m Delete EQUROBOT/modules/gatet.py
+[33mbfa2837[m Update txt.py
+[33m52a6c8c[m Update skscr.py
+[33mb54ec9e[m Delete EQUROBOT/modules/gen.py
+[33mce823f3[m Update cc-chk.py
+[33m512d2a9[m Update cc-chk.py
+[33m4d2e421[m Update cc-chk.py
+[33mf8b8ab6[m Update cc-chk.py
+[33mc1b6fc0[m Update cc-chk.py
+[33m6c95105[m Update cc-chk.py
+[33me289c5c[m Update cc-chk.py
+[33m2a7ff16[m Update cc-chk.py
+[33m433727b[m Update cc-chk.py
+[33m6211345[m Update cc-chk.py
+[33m8ef5cd2[m Update requirements.txt
+[33mfc24258[m Update requirements.txt
+[33m1375f6d[m Update requirements.txt
+[33m2b2eacc[m Update requirements.txt
+[33mbeec4ba[m Update cc-chk.py
+[33m382f407[m Update cc-chk.py
+[33md807040[m Update cc-chk.py
+[33mbca3c19[m Create cc-chk.py
+[33md30fb20[m Update requirements.txt
+[33mcb80d19[m Update gatet.py
+[33m3edc102[m Add files via upload
+[33m674b57a[m Update savy.py
+[33m7345c4e[m Update savy.py
+[33ma8674c7[m Update savy.py
+[33m3dad055[m Update savy.py
+[33m62e4834[m Update savy.py
+[33mf41dfa3[m Update savy.py
+[33m3c46cae[m Create savy.py
+[33m3e61bd4[m Delete EQUROBOT/modules/daxx_api.py
+[33m762a83f[m Update daxx_api.py
+[33mc77fb0b[m Update chk.py
+[33m8d28c66[m Update mchk.py
+[33m6a7fd4f[m Create daxx_api.py
+[33m0afe425[m Delete EQUROBOT/modules/pvtchk.py
+[33m8fe5882[m Update pvtchk.py
+[33m207976e[m Update pvtchk.py
+[33ma60e677[m Rename scr to scr.py
+[33m3b95e0d[m Update pvtchk.py
+[33m414d0fc[m Delete EQUROBOT/modules/xcvv.py
+[33mc75eacd[m Update pvtchk.py
+[33m7fafe97[m Delete EQUROBOT/modules/pvtchk2.py
+[33mdf326bf[m Create pvtchk2.py
+[33m6a94dd3[m Create pvtchk.py
+[33m60e6c8a[m Rename freeai.py to freeai
+[33mf935dfb[m Rename freeai to freeai.py
+[33m14505d2[m Update __init__.py
+[33me464349[m Update __init__.py
+[33m5370ffc[m Update __init__.py
+[33m13ca5fb[m Update config.py
+[33m5721e52[m Rename scr.py to scr
+[33m346026e[m Update __init__.py
+[33md5cd6ea[m Delete EQUROBOT/modules/zip.py
+[33m73d44a9[m Create zip.py
+[33m277e390[m Update dump.py
+[33me41e476[m Update dump.py
+[33ma4d636b[m Update and rename lqdump.py to dump.py
+[33m68f2f39[m Create cc_clean.py
+[33mb34428b[m Update mchk.py
+[33m700d84f[m Update chk.py
+[33md987f57[m Update scr.py
+[33m8456f7b[m Update scr.py
+[33m911c494[m Update scr.py
+[33mb94bdac[m Update scr.py
+[33m5f77eb9[m Update scr.py
+[33m0c37b71[m Update scr.py
+[33ma3aee7b[m Update scr.py
+[33m41da85f[m Create scr.py
+[33m1ea046d[m Update skscr.py
+[33m29425f1[m Update __init__.py
+[33m84ecfbc[m Update skscr.py
+[33m77318fc[m Update __init__.py
+[33mf1feead[m Update __init__.py
+[33mf35fdff[m Update skscr.py
+[33md87a9f8[m Update skscr.py
+[33m698c51f[m Update skscr.py
+[33m19a65f3[m Update __init__.py
+[33m9efabeb[m Update skscr.py
+[33mddddd7a[m Update __init__.py
+[33mefd9e72[m Update __init__.py
+[33m56c21d0[m Update skscr.py
+[33m2b502f6[m Update skscr.py
+[33m874a0fb[m Update __init__.py
+[33m8e7406a[m Create skscr.py
+[33m7dbf28e[m Delete EQUROBOT/modules/cvvtxt.py
+[33md10cdc7[m Create cvvtxt.py
+[33m7b231a6[m Create xcvv.py
+[33me6fbdb8[m Create mcvv.py
+[33m2ff1060[m Create txt.py
+[33m0b8685c[m Update alive.py
+[33m6337617[m Update alive.py
+[33m3e2dbe5[m Update config.py
+[33m177ca5f[m Delete EQUROBOT/modules/mcvv.py
+[33mbb7186c[m Rename genchk.py to gen.py
+[33mf621235[m Update and rename cc.py to cvv.py
+[33m1e96f30[m Delete EQUROBOT/modules/cvv.py
+[33m30036d7[m Update cc.py
+[33mbda2390[m Update pay.py
+[33m19ba138[m Update pay.py
+[33m994ddaa[m Update pay.py
+[33mf77dd1e[m Update pay.py
+[33m1ddd2cf[m Rename hitter.py to hitter
+[33mf7f1682[m Delete EQUROBOT/modules/checkout.py
+[33mc7f8873[m Create pay.py
+[33me6ce373[m Delete EQUROBOT/modules/porndl.py
+[33m61e14cb[m Create cc.py
+[33m6a7d571[m Update bin.py
+[33m1f1d4b0[m Delete EQUROBOT/modules/gen.py
+[33mf42730f[m Update and rename gen2.py to genchk.py
+[33mde68ed2[m Update gen2.py
+[33m670ea56[m Create gen2.py
+[33m4666448[m Update gen.py
+[33md9ca228[m Update gen.py
+[33m51fe150[m Update gen.py
+[33m150bdcb[m Update gen.py
+[33m29edd31[m Update gen.py
+[33m2b8b751[m Update sk.py
+[33mdc67d01[m Update sk.py
+[33m8611ffc[m Update gen.py
+[33m16851e5[m Update alive.py
+[33m12a095f[m Update ip.py
+[33m353a5f7[m Update ip.py
+[33meab36a8[m Rename devdaxx.py to dev.py
+[33mf94d959[m Create ip.py
+[33mc6dee4d[m Update fake.py
+[33m35bfb25[m Update fake.py
+[33m976b3b3[m Update fake.py
+[33m3c9e341[m Update chk.py
+[33m57ee9c2[m Create id.py
+[33mc28db56[m Rename fakeaddress.py to fake.py
+[33mf6e8329[m Update config.py
+[33m576e3e0[m Delete EQUROBOT/modules/skscr.py
+[33m5adbbfd[m Update skscr.py
+[33m19b2f93[m Update skscr.py
+[33m54ca9e3[m Update skscr.py
+[33m3a8e137[m Update skscr.py
+[33mb18faf9[m Update skscr.py
+[33m0ad64e9[m Update skscr.py
+[33m791c93e[m Create skscr.py
+[33ma329833[m Delete EQUROBOT/modules/ccap
+[33mb105b88[m Update mcvv.py
+[33m6ca2e7f[m Update mcvv.py
+[33m21c9d3e[m Create mcvv.py
+[33m2178a0f[m Update cvv.py
+[33m1a25e76[m Update cvv.py
+[33m78f45b5[m Update cvv.py
+[33mdc12a76[m Update cvv.py
+[33m16b7b43[m Update cvv.py
+[33m5acdc6b[m Update cvv.py
+[33m4d4d1c5[m Create cvv.py
+[33mfd95b0c[m Update mchk.py
+[33m3c7678e[m Update mchk.py
+[33m32af474[m Update mchk.py
+[33m75cca49[m Update chk.py
+[33m16849f1[m Update chk.py
+[33m4ec789e[m Update chk.py
+[33m2ac25a7[m Update checkout.py
+[33m3ad2dc8[m Update chk.py
+[33m2a1faa5[m Update chk.py
+[33m0a7b0b0[m Update gate.py
+[33m985c150[m Update gate.py
+[33m0db9b58[m Update config.py
+[33m2b85398[m Update config.py
+[33mb118dde[m Rename freeai.py to freeai
+[33m4f30c79[m Update and rename payment.py to checkout.py
+[33m7ce83a4[m Update chk.py
+[33m1bc24c3[m Update mchk.py
+[33mc9e478e[m Update sk.py
+[33m75c1da7[m Update sk.py
+[33me57c1be[m Update sk.py
+[33m8d8e4ae[m Update sk.py
+[33m80b6c9f[m Update sk.py
+[33m774b4a3[m Update sk.py
+[33mc7f831e[m Update and rename start to start.py
+[33mcfd2315[m Update sk.py
+[33m397ed3d[m Update sk.py
+[33m4b21e80[m Rename start.py to start
+[33m03dcbb9[m Update start.py
+[33m6535e40[m Update sk.py
+[33mc18896d[m Update sk.py
+[33m632b753[m Update start.py
+[33md0fb6f9[m Update sk.py
+[33mc3f575b[m Update start.py
+[33m964db90[m Update sk.py
+[33m844d08a[m Update start.py
+[33ma455892[m Update start.py
+[33mb43da5d[m Update sk.py
+[33mf70b2e8[m Update start.py
+[33m5be394b[m Update start.py
+[33m6081754[m Update sk.py
+[33m575e129[m Update sk.py
+[33mc238053[m Update fakeaddress.py
+[33me1def47[m Update hitter.py
+[33mde0a6ad[m Update hitter.py
+[33m4e5ee37[m Update hitter.py
+[33m9b2ac69[m Create hitter.py
+[33m78849ce[m Update payment.py
+[33m95c4073[m Update payment.py
+[33m56d0aff[m Update payment.py
+[33mb2df766[m Update payment.py
+[33m632261a[m Update payment.py
+[33m46e1092[m Update payment.py
+[33m07ea4ba[m Add files via upload
+[33m2070dc1[m Update lqdump.py
+[33m3040e97[m Update HQdump.py
+[33m1be7a93[m Update HQdump.py
+[33m3ce9443[m Update lqdump.py
+[33mb20c2ba[m Update lqdump.py
+[33m543c2cb[m Update lqdump.py
+[33mfeb3b69[m Update HQdump.py
+[33m682bece[m Update HQdump.py
+[33m37ca5ac[m Update HQdump.py
+[33m0633e44[m Update lqdump.py
+[33mef5d676[m Update and rename ccdump.py to HQdump.py
+[33mb8c7975[m Rename dump.py to lqdump.py
+[33mfb3026f[m Update dump.py
+[33md5644bc[m Add files via upload
+[33m58f7a5d[m Update requirements.txt
+[33m14a0a02[m Update bin.py
+[33m7908749[m Update bin.py
+[33m514d84f[m Update bin.py
+[33mda6f128[m Update bin.py
+[33md5f4f39[m Update config.py
+[33mf33be80[m Update devdaxx.py
+[33mb01bd19[m Update gitwizard.py
+[33m7c5cb31[m Update gitwizard.py
+[33m5407f7e[m Update gitwizard.py
+[33mfff6f64[m Create start
+[33m66965bb[m Update gitwizard.py
+[33mfb041de[m Update mchk.py
+[33mfc5a4c4[m Update mchk.py
+[33m61c419f[m Update mchk.py
+[33m13d13b5[m Update mchk.py
+[33mca6fa5e[m Create mchk.py
+[33m70ad793[m Update gitwizard.py
+[33m0385abf[m Update gitwizard.py
+[33m157f5f9[m Update gitwizard.py
+[33m7013fef[m Update gitwizard.py
+[33maa7a571[m Update gitwizard.py
+[33mda394f6[m Update gitwizard.py
+[33m8204486[m Update gitwizard.py
+[33mb945e1a[m Update gitwizard.py
+[33m1b89d9d[m Update gitwizard.py
+[33mc2d4588[m Update __init__.py
+[33m463cdfb[m Update requirements.txt
+[33mb8c6324[m Update requirements.txt
+[33m77ecd6d[m Create gitwizard.py
+[33mf3efb10[m Delete EQUROBOT/modules/xchk.py
+[33mb742ac0[m Create xchk.py
+[33m2159ee5[m Delete EQUROBOT/modules/chktxt.py
+[33m39120db[m Update chktxt.py
+[33m3850a85[m Update chktxt.py
+[33m26c8d6c[m Create chktxt.py
+[33m6ca8819[m Update chk.py
+[33m245142f[m Update chk.py
+[33mb9c0aa7[m Update chk.py
+[33m8695256[m Update chk.py
+[33m1f1bf56[m Update chk.py
+[33mb2ee868[m Update chk.py
+[33mf8ced60[m Update chk.py
+[33m5f859c0[m Update chk.py
+[33mffe49fc[m Update chk.py
+[33mcb89a3b[m Update chk.py
+[33m2f3d3c0[m Update chk.py
+[33md4ec7e6[m Update chk.py
+[33mf23858d[m Create chk.py
+[33m47310bf[m Update and rename base.py to gate.py
+[33meecfb50[m Delete EQUROBOT/modules/aichatbot
+[33mce0d2ee[m Delete EQUROBOT/modules/videotool.py
+[33m8717e2f[m Rename ccap.py to ccap
+[33m1172783[m Update config.py
+[33mf96094d[m Update config.py
+[33m46a0614[m Update config.py
+[33mbb44499[m Update config.py
+[33m64bbdf0[m Delete EQUROBOT/modules/scr.py
+[33mc966ee1[m Create scr.py
+[33m06f7ffb[m Update base.py
+[33m2320aeb[m s
+[33mcbf223b[m fix
+[33m79e39b2[m Update and rename test.py to ccap.py
+[33m49eb9c1[m Add files via upload
+[33m9057edb[m Update base.py
+[33m0c57606[m Update config.py
+[33ma709669[m Add files via upload
+[33mcb90ef0[m Update requirements.txt
+[33m5b29cae[m Delete EQUROBOT/modules/base.py
+[33mb7297de[m Update base.py
+[33m4133c64[m Update base.py
+[33m6008d13[m Update base.py
+[33m4ce9614[m Update base.py
+[33m5c19e46[m Update base.py
+[33me3ddb53[m Update base.py
+[33me17139a[m Update base.py
+[33m26b9e12[m Update base.py
+[33mbee4cba[m Update base.py
+[33m41750b5[m Update base.py
+[33m2efda9b[m Add files via upload
+[33me60bc85[m Update __main__.py
+[33m3b7ee82[m Create ss.py
+[33ma0857fc[m Update requirements.txt
+[33m3b3e03a[m Delete EQUROBOT/font.ttf
+[33m4d7e214[m Delete EQUROBOT/font2.ttf
+[33m820ad29[m Delete EQUROBOT/upic.png
+[33m738f7be[m Delete EQUROBOT/wel2.png
+[33m6b93529[m Create domain.py
+[33m08e85d8[m Delete EQUROBOT/modules/welcome.py
+[33m994fc9f[m Update requirements.txt
+[33m5ca48cb[m Update ig.py
+[33me0bb65a[m Create ig.py
+[33md1ccf3a[m Delete EQUROBOT/modules/Instagram.py
+[33m0875937[m Create Instagram.py
+[33mea3fe9c[m Update download.py
+[33m339d840[m Add files via upload
+[33m6d01924[m Add files via upload
+[33m86f9a3d[m Add files via upload
+[33me54392b[m Add files via upload
+[33m3769891[m Create welcome.py
+[33m07b355c[m Create videotool.py
+[33md2f1517[m Delete EQUROBOT/modules/welcome
+[33m33f0051[m Update requirements.txt
+[33m7e6c0ca[m Delete EQUROBOT/assets directory
+[33m6d7a083[m Rename welcome.py to welcome
+[33mce09595[m Update welcome.py
+[33mc83a676[m Create equ_ban.py
+[33m95e57a9[m Create admin_check.py
+[33m1811ea3[m Add files via upload
+[33m3d343d1[m Add files via upload
+[33mf43186c[m Add files via upload
+[33m6eca065[m Update requirements.txt
+[33mb529d5b[m Add files via upload
+[33mac880d3[m Update requirements.txt
+[33ma2203ac[m Create Deep.py
+[33m55f2dce[m Update welcome.py
+[33mfccfd54[m Create welcome.py
+[33m45c321f[m Create freeai.py
+[33m6bb10ac[m Create gen.py
+[33mf89848c[m Update requirements.txt
+[33md28da81[m Update __init__.py
+[33m6cb8439[m Create bin.py
+[33m351f062[m Create fakeaddress.py
+[33meda19e8[m Update sk.py
+[33mac7dd3b[m Create sk.py
+[33m647d2b1[m Delete EQUROBOT/modules/imagesedit.py
+[33mc08ecf5[m Delete EQUROBOT/helper directory
+[33m352554c[m Update requirements.txt
+[33mc88edab[m Update requirements.txt
+[33m1622057[m Add files via upload
+[33m37e7631[m Add files via upload
+[33mbf88736[m Create __init__.py
+[33mb3d1c8f[m Create anime.py
+[33m28fbe3d[m Update porndl.py
+[33m8e6aa00[m Update requirements.txt
+[33m875b840[m Create porndl.py
+[33me7bd6af[m Rename aichatbot.py to aichatbot
+[33m8aaf399[m Update aichatbot.py
+[33m5cc889c[m Update aichatbot.py
+[33md82f398[m Update aichatbot.py
+[33md047d3d[m Create aichatbot.py
+[33m659e47b[m Delete EQUROBOT/modules/extra.py
+[33m7620fd2[m Update requirements.txt
+[33me77fe04[m Update extra.py
+[33m0a195ff[m Update requirements.txt
+[33m73cab44[m Update extra.py
+[33m0c3434b[m Update download.py
+[33m8dab391[m Update requirements.txt
+[33m46191cb[m Update requirements.txt
+[33m553a56c[m Update download.py
+[33m32143ec[m Update download.py
+[33m0743bf2[m Update requirements.txt
+[33m93d2d94[m Update requirements.txt
+[33mdb5e56b[m Update download.py
+[33m92d2283[m Add files via upload
+[33mda45378[m Delete EQUROBOT/modules/video.py
+[33m6e23bf6[m Update requirements.txt
+[33m70b8e14[m Delete EQUROBOT/modules/song.py
+[33mc527b16[m Create video.py
+[33ma0cbdfe[m Update extra.py
+[33mc3219f2[m Update song.py
+[33medc0685[m Create song.py
+[33m13e5532[m Update requirements.txt
+[33m77d50ff[m Update requirements.txt
+[33m6131bfb[m Update extra.py
+[33m219c713[m Create extra.py
+[33mcf6027c[m Update getdraw.py
+[33m58fbab1[m Update getdraw.py
+[33m2c102f1[m Update requirements.txt
+[33mb57a61c[m Create getdraw.py
+[33m54cd98c[m Update and rename image.py to upscale.py
+[33m6e3b7ed[m Update image.py
+[33m8e5b2c1[m Update image.py
+[33meba360d[m Update alive.py
+[33m41a299e[m Update alive.py
+[33m7ba07b1[m Update image.py
+[33m0281c75[m Update image.py
+[33m0112c1a[m Update image.py
+[33m0743759[m Update image.py
+[33m990a224[m Update image.py
+[33m384818c[m Update image.py
+[33m7c1cc5a[m Update requirements.txt
+[33m46a3bfb[m Update image.py
+[33m83ebdb8[m Update image.py
+[33mccf289f[m Update ai.py
+[33m66645bd[m Update ai.py
+[33m870cac5[m Update app.json
+[33m8648d99[m Update alive.py
+[33m854b4c3[m Update alive.py
+[33m8d4e488[m Update start.py
+[33ma6bb920[m Update start.py
+[33m0036aae[m Update start.py
+[33md226f04[m Update start.py
+[33mb2f4fad[m Update start.py
+[33m941edd0[m Update draw.py
+[33m55222e6[m Update image.py
+[33m430bc33[m Create image.py
+[33m154da72[m Update app.json
+[33m9c9965f[m Update README.md
+[33mde75c2b[m Create README.md
+[33m50e8214[m Update requirements.txt
+[33me534cf9[m Update requirements.txt
+[33m46827eb[m Delete start.js
+[33m727c9c5[m Update start.js
+[33m8bc30e9[m Create start.js
+[33m0da9906[m Update draw.py
+[33mec92755[m Add files via upload
+[33m1ef3f96[m Create devdaxx.py
+[33m7806117[m Update and rename deep.py to ai.py
+[33m4aeb0f4[m Update deep.py
+[33m968ba01[m Update requirements.txt
+[33m10d1471[m Update deep.py
+[33m23179e4[m Update deep.py
+[33m7740cc6[m Update deep.py
+[33m8a7ea9e[m Create deep.py
+[33m0286cea[m Create alive.py
+[33m2239f2f[m Delete EQUROBOT/modules/bot directory
+[33mf763941[m Create alive.py
+[33mac2e45b[m Update __init__.py
+[33m098dd9a[m Update __main__.py
+[33mb616483[m Add files via upload
+[33m783d779[m Create start.py
+[33m6f62e9a[m Delete EQUROBOT/start.py
+[33m2fbec09[m Add files via upload
+[33mfa72d75[m Create start.py
+[33m6dd8bf4[m Add files via upload
+[33m9e5aaff[m Initial commit
