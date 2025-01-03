@@ -1,0 +1,14 @@
+import os
+
+API_ID = int(os.environ["API_ID"])
+API_HASH = os.environ["API_HASH"]
+BOT_TOKEN = os.environ["BOT_TOKEN"]
+BOT_USERNAME = os.environ["BOT_USERNAME"]
+OWNER_ID = int(os.environ["OWNER_ID"])
+EVAL = list(map(int, os.environ["EVAL"].split()))
+DEEP_API = os.environ["DEEP_API"]
+LOGGER_ID = int(os.environ["LOGGER_ID"])
+GPT_API = os.environ["GPT_API"]
+DAXX_API = os.environ["DAXX_API"]
+MONGO_DB = os.environ["MONGO_DB"]
+
